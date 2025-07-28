@@ -1,14 +1,13 @@
-<script>start("/Users/badrlyc/Documents/GitHub/mtm6130-final/images/");</script>
+<script>start("/Users/badrlyc/Documents/GitHub/mtm6130-final/images/images/");</script>
 <script>onHasParentDirectory();</script>
-<script>addRow("images","images",1,416,"416 B",1753684911,"7/28/25, 2:41:51 AM");</script>
-<script>addRow("about-us.jpg","about-us.jpg",0,89638,"87.5 kB",1753681305,"7/28/25, 1:41:45 AM");</script>
-<script>addRow("bob.jpg","bob.jpg",0,43259,"42.2 kB",1753681305,"7/28/25, 1:41:45 AM");</script>
-<script>addRow("digital.jpg","digital.jpg",0,11458,"11.2 kB",1753681305,"7/28/25, 1:41:45 AM");</script>
-<script>addRow("john.jpg","john.jpg",0,40561,"39.6 kB",1753681305,"7/28/25, 1:41:45 AM");</script>
-<script>addRow("logo.png","logo.png",0,6000,"5.9 kB",1753681305,"7/28/25, 1:41:45 AM");</script>
-<script>addRow("main-banner.jpg","main-banner.jpg",0,311760,"304 kB",1753681305,"7/28/25, 1:41:45 AM");</script>
-<script>addRow("marketing.jpg","marketing.jpg",0,11982,"11.7 kB",1753681305,"7/28/25, 1:41:45 AM");</script>
-<script>addRow("print.jpg","print.jpg",0,44522,"43.5 kB",1753681305,"7/28/25, 1:41:45 AM");</script>
-<script>addRow("video.jpg","video.jpg",0,22772,"22.2 kB",1753681305,"7/28/25, 1:41:45 AM");</script>
-<script>addRow("vision.jpg","vision.jpg",0,34774,"34.0 kB",1753681305,"7/28/25, 1:41:45 AM");</script>
-<script>addRow("web.jpg","web.jpg",0,36980,"36.1 kB",1753681305,"7/28/25, 1:41:45 AM");</script>
+<script>addRow("about-us.jpg","about-us.jpg",0,89638,"87.5 kB",1753684907,"7/28/25, 2:41:47 AM");</script>
+<script>addRow("bob.jpg","bob.jpg",0,43259,"42.2 kB",1753684907,"7/28/25, 2:41:47 AM");</script>
+<script>addRow("digital.jpg","digital.jpg",0,11458,"11.2 kB",1753684907,"7/28/25, 2:41:47 AM");</script>
+<script>addRow("john.jpg","john.jpg",0,40561,"39.6 kB",1753684907,"7/28/25, 2:41:47 AM");</script>
+<script>addRow("logo.png","logo.png",0,6000,"5.9 kB",1753684907,"7/28/25, 2:41:47 AM");</script>
+<script>addRow("main-banner.jpg","main-banner.jpg",0,311760,"304 kB",1753684907,"7/28/25, 2:41:47 AM");</script>
+<script>addRow("marketing.jpg","marketing.jpg",0,11982,"11.7 kB",1753684907,"7/28/25, 2:41:47 AM");</script>
+<script>addRow("print.jpg","print.jpg",0,44522,"43.5 kB",1753684907,"7/28/25, 2:41:47 AM");</script>
+<script>addRow("video.jpg","video.jpg",0,22772,"22.2 kB",1753684907,"7/28/25, 2:41:47 AM");</script>
+<script>addRow("vision.jpg","vision.jpg",0,34774,"34.0 kB",1753684907,"7/28/25, 2:41:47 AM");</script>
+<script>addRow("web.jpg","web.jpg",0,36980,"36.1 kB",1753684907,"7/28/25, 2:41:47 AM");</script>
